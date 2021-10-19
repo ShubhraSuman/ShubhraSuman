@@ -4,9 +4,7 @@
 <p><em>
   <ul>
   <li> 👋 Hi, I’m @ShubhraSuman</li>
-  <li> 👀 I’m interested in ... </li>
-  <li> 🌱 I’m currently learning ... Javascript</li>
-  <li> 💞️ I’m looking to collaborate on ... </li>
+  <li> 🌱 I’m currently learning ... To develop my digital garden 🌱</li>
   <li> 📫 How to reach me ... <a href="https://www.linkedin.com/in/shubhra-suman-3125a5135">Linkedin</a></li>
   <li> ✨ Fun Fact ... I sleep alot!</li>
   <li> 😊 Pronoun ... She/Her </li>
