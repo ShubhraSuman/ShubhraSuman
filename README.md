@@ -8,7 +8,7 @@
   <li> 📫 How to reach me ... <a href="https://www.linkedin.com/in/shubhra-suman-3125a5135">Linkedin</a></li>
   <li> ✨ Fun Fact ... I sleep alot!</li>
   <li> 😊 Pronoun ... She/Her </li>
-  <li> 💻 Software Engineer at <a href="https://www.maersk.com/">Maersk</li>
+  <li> 💻 Software Engineer at <a href="https://www.informatica.com/in/">Informatica</li>
 </ul> </em></p>
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
